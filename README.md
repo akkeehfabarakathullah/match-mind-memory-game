@@ -1,6 +1,4 @@
-# Match Mind - Memory Card Game
-
-![Match Mind Logo](https://images.pexels.com/photos/7034926/pexels-photo-7034926.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+# Match Mind - Memory Card Game🧠🎮⏳ 
 
 A beautiful and engaging memory card game built with React and TypeScript. Test and improve your memory by matching pairs of cards while racing against time.
 
